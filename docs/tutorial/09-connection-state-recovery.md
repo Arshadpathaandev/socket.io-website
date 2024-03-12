@@ -8,7 +8,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # Connection state recovery
-
+adasudhasudqhwuihwqd  dasdahsjdasjdhsjadhjasd asdas dasdhuewqdeuwdeuw dasdjsadjsadsa dsajoidjewqpdjewd
 First, let's handle disconnections by pretending that there was no disconnection: this feature is called "Connection state recovery". 
 
 This feature will **temporarily** store all the events that are sent by the server and will try to restore the state of a client when it reconnects:
